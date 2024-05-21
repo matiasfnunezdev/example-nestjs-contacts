@@ -32,7 +32,7 @@
 $ npm install
 ```
 
-## Prerequisits setup
+## Prerequisites setup
 
 Put the .env and service_account.json file shared into the root folder of the repository
 
