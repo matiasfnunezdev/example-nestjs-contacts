@@ -32,6 +32,12 @@
 $ npm install
 ```
 
+## Prerequisits setup
+
+Put the .env and service_account.json file shared into the root folder of the repository
+
+![alt text](image.png)
+
 ## Running the app
 
 ```bash
